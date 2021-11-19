@@ -1,4 +1,4 @@
 print('hello world')
 
 class Post():
-    pass
+    print('here is some REAL code')
